@@ -1,7 +1,7 @@
 # SENTIMENT ANALYSIS IN TWITTER
 <br>
 
-## ABSTRACT<br>
+ ## ABSTRACT<br>
 In this project we have built a model which takes a dataset as an input andas an output gives the percentage of posive ,negative and neutral tweets in the given dataset. It is done using natural language processing library using scikit learn machine learning libraries such as textblob,etc.
 
 <br>
