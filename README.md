@@ -5,6 +5,7 @@
 In this project we have built a model which takes a dataset as an input andas an output gives the percentage of posive ,negative and neutral tweets in the given dataset. It is done using natural language processing library using scikit learn machine learning libraries such as textblob,etc.
 
 <br>
+
 ## NATURAL LANGUAGE PROCESSING<br>
 
 NLP is the method of interaction between humans and computers, so that computers can understand and process what the humans are trying to convey by their actions,thoughts,movements,expressions,etc. 
@@ -29,6 +30,7 @@ Here we check if the given token whether it is a noun, a verb, an adjective and 
 <br>
 
 <br>
+
  ## LEXICON BASED APPROACH
 <br>
 In this project we have used the lexicon based approach for analysing the given tweets.
