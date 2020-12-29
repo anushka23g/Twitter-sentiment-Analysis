@@ -29,7 +29,7 @@ Here we check if the given token whether it is a noun, a verb, an adjective and 
 <br>
 
 <br>
-## LEXICON BASED APPROACH
+ ## LEXICON BASED APPROACH
 <br>
 In this project we have used the lexicon based approach for analysing the given tweets.
 The lexicon based approach uses sentiment dictionary with opinion words and match them with the data for determining polarity. There are three techniques to construct a sentiment
